@@ -6,14 +6,14 @@ The project applied statistical analysis to a transactional sales dataset contai
 
 ## Tools & Methods
 
-Microsoft Excel
-Descriptive statistics
-Sample statistics
-Hypothesis testing
-Z-statistics
-P-values
-Data analysis and interpretation
-Data visualization
+- Microsoft Excel
+- Descriptive statistics
+- Sample statistics
+- Hypothesis testing
+- Z-statistics
+- P-values
+- Data analysis and interpretation
+- Data visualization
 
 ## Business Questions
 
@@ -21,10 +21,10 @@ The analysis used statistical methods to answer questions about customer purchas
 
 ## Key Skills Demonstrated
 
-Transactional data analysis
-Business statistics
-Statistical hypothesis testing
-Quantitative reasoning
-Excel analysis
+- Transactional data analysis
+- Business statistics
+- Statistical hypothesis testing
+- Quantitative reasoning
+- Excel analysis
 Data interpretation
 Communicating quantitative findings
